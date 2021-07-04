@@ -194,7 +194,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
-    max-width: 940px;
+    max-width: 1000px;
     margin-top: 2rem;
     font-family: 'Poppins', sans-serif;
 }
